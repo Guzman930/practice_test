@@ -3,6 +3,8 @@
 def deposit(account: dict, amount: float) -> None:
     pass
 
+
+
 # Function to withdraw money from an account
 def withdraw(account: dict, amount: float) -> None:
     pass
